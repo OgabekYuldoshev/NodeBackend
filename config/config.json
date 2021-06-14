@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "anonymous2001",
+    "database": "blogpost",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "anonymous2001",
+    "database": "blogpost",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "anonymous2001",
+    "database": "blogpost",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
